@@ -1,7 +1,7 @@
 # bashPimping
 
 The code used to customize my bash prompt.
-You can try my customization by copying pasting the code in your terminal or by executing the script.
+You can try my customization by copy-pasting the code in your terminal or by executing the script.
 To make the customization permanent, refer to the first link in the "sources" section.
 
 # Sources
